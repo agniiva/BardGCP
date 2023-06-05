@@ -2,3 +2,4 @@ flask
 gunicorn
 bardapi
 requests
+git+https://github.com/dsdanielpark/Bard-API.git
